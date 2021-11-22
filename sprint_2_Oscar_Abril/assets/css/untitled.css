@@ -1,0 +1,23 @@
+.gradient {
+  background: linear-gradient(120deg, #87c6ec, #c6e7c9);
+  color: #fff;
+}
+
+.special-skill-item .icon {
+  text-align: center;
+  font-size: 50px;
+  background-color: #5eba24;
+  color: #fff;
+  height: 70px;
+  width: 70px;
+  line-height: 69px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #87c6ec;
+  border-color: #0ea0ff;
+}
+
